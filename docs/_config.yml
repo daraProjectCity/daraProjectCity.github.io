@@ -28,7 +28,7 @@ twitter_username: DaraProjectCity
 github_username:  DaraProjectCity
 
 # Build settings
-theme: jekyll-theme-Cayman
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
